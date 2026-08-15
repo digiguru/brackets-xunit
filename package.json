@@ -35,6 +35,7 @@
         "templates/yui.html"
     ],
     "engines": {
-        "brackets": ">=0.34.0"
+        "brackets": ">=0.34.0",
+        "node": "24.x"
     }
 }
